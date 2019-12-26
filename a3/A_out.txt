@@ -1,0 +1,646 @@
+----------- 2019-11-23 21:20:55 -----------
+----------- 2019-11-23 21:21:00 -----------
+#Trump                                   1
+----------- 2019-11-23 21:21:05 -----------
+#Trump                                   2
+#GOP                                     1
+----------- 2019-11-23 21:21:10 -----------
+#Trump                                   3
+#GOP                                     1
+----------- 2019-11-23 21:21:15 -----------
+#Trump                                   3
+#ImpeachmentHearing                      1
+#GOP                                     1
+----------- 2019-11-23 21:21:20 -----------
+#Trump                                   4
+#ImpeachmentHearing                      2
+#USA                                     1
+#GOP                                     1
+----------- 2019-11-23 21:21:25 -----------
+#Trump                                   4
+#ImpeachmentHearing                      2
+#USA                                     1
+#GOP                                     1
+----------- 2019-11-23 21:21:30 -----------
+#Trump                                   4
+#ImpeachmentHearing                      2
+#GOP                                     2
+#USA                                     1
+----------- 2019-11-23 21:21:35 -----------
+#Trump                                   4
+#ImpeachmentHearing                      3
+#GOP                                     3
+#USA                                     1
+----------- 2019-11-23 21:21:40 -----------
+#Trump                                   5
+#GOP                                     4
+#ImpeachmentHearing                      3
+#USA                                     1
+#Russia                                  1
+----------- 2019-11-23 21:21:45 -----------
+#Trump                                   7
+#GOP                                     6
+#ImpeachmentHearing                      3
+#USA                                     1
+#Russia                                  1
+----------- 2019-11-23 21:21:50 -----------
+#Trump                                   10
+#GOP                                     6
+#ImpeachmentHearing                      3
+#USA                                     2
+#Russia                                  1
+----------- 2019-11-23 21:21:55 -----------
+#Trump                                   11
+#GOP                                     6
+#ImpeachmentHearing                      3
+#USA                                     2
+#Russia                                  2
+----------- 2019-11-23 21:22:00 -----------
+#Trump                                   13
+#GOP                                     6
+#ImpeachmentHearing                      3
+#USA                                     2
+#Russia                                  2
+----------- 2019-11-23 21:22:05 -----------
+#Trump                                   14
+#GOP                                     6
+#ImpeachmentHearing                      3
+#USA                                     2
+#Russia                                  2
+----------- 2019-11-23 21:22:10 -----------
+#Trump                                   14
+#GOP                                     6
+#ImpeachmentHearing                      3
+#Russia                                  3
+#USA                                     2
+----------- 2019-11-23 21:22:15 -----------
+#Trump                                   14
+#GOP                                     6
+#ImpeachmentHearing                      4
+#Russia                                  3
+#USA                                     2
+----------- 2019-11-23 21:22:20 -----------
+#Trump                                   15
+#GOP                                     6
+#ImpeachmentHearing                      4
+#Russia                                  4
+#USA                                     2
+----------- 2019-11-23 21:22:25 -----------
+#Trump                                   17
+#GOP                                     6
+#ImpeachmentHearing                      5
+#Russia                                  4
+#USA                                     3
+----------- 2019-11-23 21:22:30 -----------
+#Trump                                   17
+#ImpeachmentHearing                      6
+#GOP                                     6
+#Russia                                  4
+#USA                                     3
+----------- 2019-11-23 21:22:35 -----------
+#Trump                                   18
+#ImpeachmentHearing                      6
+#GOP                                     6
+#Russia                                  4
+#USA                                     3
+----------- 2019-11-23 21:22:40 -----------
+#Trump                                   19
+#ImpeachmentHearing                      6
+#GOP                                     6
+#USA                                     4
+#Russia                                  4
+----------- 2019-11-23 21:22:45 -----------
+#Trump                                   19
+#ImpeachmentHearing                      6
+#GOP                                     6
+#Russia                                  5
+#USA                                     4
+----------- 2019-11-23 21:22:50 -----------
+#Trump                                   22
+#ImpeachmentHearing                      6
+#GOP                                     6
+#USA                                     5
+#Russia                                  5
+----------- 2019-11-23 21:22:55 -----------
+#Trump                                   22
+#ImpeachmentHearing                      6
+#GOP                                     6
+#USA                                     5
+#Russia                                  5
+----------- 2019-11-23 21:23:00 -----------
+#Trump                                   24
+#GOP                                     7
+#ImpeachmentHearing                      6
+#USA                                     5
+#Russia                                  5
+----------- 2019-11-23 21:23:05 -----------
+#Trump                                   25
+#GOP                                     7
+#ImpeachmentHearing                      6
+#USA                                     6
+#Russia                                  6
+----------- 2019-11-23 21:23:10 -----------
+#Trump                                   28
+#GOP                                     8
+#ImpeachmentHearing                      6
+#USA                                     6
+#Russia                                  6
+----------- 2019-11-23 21:23:15 -----------
+#Trump                                   29
+#GOP                                     8
+#ImpeachmentHearing                      6
+#USA                                     6
+#Russia                                  6
+----------- 2019-11-23 21:23:20 -----------
+#Trump                                   31
+#GOP                                     8
+#ImpeachmentHearing                      6
+#USA                                     6
+#Russia                                  6
+----------- 2019-11-23 21:23:25 -----------
+#Trump                                   33
+#GOP                                     8
+#ImpeachmentHearing                      7
+#Russia                                  7
+#USA                                     6
+----------- 2019-11-23 21:23:30 -----------
+#Trump                                   34
+#ImpeachmentHearing                      8
+#GOP                                     8
+#Russia                                  7
+#USA                                     6
+----------- 2019-11-23 21:23:35 -----------
+#Trump                                   35
+#ImpeachmentHearing                      8
+#Russia                                  8
+#GOP                                     8
+#USA                                     6
+----------- 2019-11-23 21:23:40 -----------
+#Trump                                   35
+#ImpeachmentHearing                      9
+#Russia                                  8
+#GOP                                     8
+#USA                                     6
+----------- 2019-11-23 21:23:45 -----------
+#Trump                                   36
+#ImpeachmentHearing                      9
+#Russia                                  9
+#GOP                                     8
+#USA                                     6
+----------- 2019-11-23 21:23:50 -----------
+#Trump                                   36
+#ImpeachmentHearing                      9
+#Russia                                  9
+#GOP                                     8
+#USA                                     6
+----------- 2019-11-23 21:23:55 -----------
+#Trump                                   37
+#Russia                                  10
+#ImpeachmentHearing                      9
+#GOP                                     9
+#USA                                     6
+----------- 2019-11-23 21:24:00 -----------
+#Trump                                   37
+#Russia                                  11
+#ImpeachmentHearing                      9
+#GOP                                     9
+#USA                                     6
+----------- 2019-11-23 21:24:05 -----------
+#Trump                                   37
+#Russia                                  11
+#ImpeachmentHearing                      9
+#GOP                                     9
+#USA                                     6
+----------- 2019-11-23 21:24:10 -----------
+#Trump                                   40
+#Russia                                  12
+#ImpeachmentHearing                      10
+#GOP                                     9
+#USA                                     6
+----------- 2019-11-23 21:24:15 -----------
+#Trump                                   42
+#Russia                                  13
+#GOP                                     11
+#ImpeachmentHearing                      10
+#USA                                     7
+----------- 2019-11-23 21:24:20 -----------
+#Trump                                   43
+#Russia                                  13
+#GOP                                     11
+#ImpeachmentHearing                      10
+#USA                                     9
+----------- 2019-11-23 21:24:25 -----------
+#Trump                                   43
+#Russia                                  13
+#GOP                                     11
+#ImpeachmentHearing                      10
+#USA                                     9
+----------- 2019-11-23 21:24:30 -----------
+#Trump                                   43
+#Russia                                  13
+#GOP                                     11
+#ImpeachmentHearing                      10
+#USA                                     9
+----------- 2019-11-23 21:24:35 -----------
+#Trump                                   47
+#Russia                                  14
+#GOP                                     11
+#ImpeachmentHearing                      10
+#USA                                     9
+----------- 2019-11-23 21:24:40 -----------
+#Trump                                   50
+#Russia                                  14
+#GOP                                     11
+#ImpeachmentHearing                      10
+#USA                                     10
+----------- 2019-11-23 21:24:45 -----------
+#Trump                                   51
+#Russia                                  15
+#ImpeachmentHearing                      11
+#GOP                                     11
+#USA                                     10
+----------- 2019-11-23 21:24:50 -----------
+#Trump                                   52
+#Russia                                  15
+#ImpeachmentHearing                      11
+#GOP                                     11
+#USA                                     10
+----------- 2019-11-23 21:24:55 -----------
+#Trump                                   53
+#Russia                                  16
+#ImpeachmentHearing                      12
+#GOP                                     11
+#USA                                     10
+----------- 2019-11-23 21:25:00 -----------
+#Trump                                   54
+#Russia                                  16
+#GOP                                     13
+#ImpeachmentHearing                      12
+#USA                                     11
+----------- 2019-11-23 21:25:05 -----------
+#Trump                                   55
+#Russia                                  17
+#GOP                                     13
+#ImpeachmentHearing                      12
+#USA                                     11
+----------- 2019-11-23 21:25:10 -----------
+#Trump                                   56
+#Russia                                  17
+#GOP                                     14
+#ImpeachmentHearing                      12
+#USA                                     12
+----------- 2019-11-23 21:25:15 -----------
+#Trump                                   56
+#Russia                                  17
+#GOP                                     14
+#ImpeachmentHearing                      13
+#USA                                     12
+----------- 2019-11-23 21:25:20 -----------
+#Trump                                   57
+#Russia                                  17
+#GOP                                     15
+#ImpeachmentHearing                      13
+#USA                                     12
+----------- 2019-11-23 21:25:25 -----------
+#Trump                                   58
+#Russia                                  17
+#GOP                                     16
+#ImpeachmentHearing                      13
+#USA                                     12
+----------- 2019-11-23 21:25:30 -----------
+#Trump                                   59
+#Russia                                  17
+#GOP                                     16
+#ImpeachmentHearing                      13
+#USA                                     13
+----------- 2019-11-23 21:25:35 -----------
+#Trump                                   62
+#Russia                                  17
+#GOP                                     16
+#USA                                     14
+#ImpeachmentHearing                      13
+----------- 2019-11-23 21:25:40 -----------
+#Trump                                   63
+#Russia                                  17
+#GOP                                     16
+#USA                                     14
+#ImpeachmentHearing                      13
+----------- 2019-11-23 21:25:45 -----------
+#Trump                                   64
+#Russia                                  17
+#GOP                                     16
+#USA                                     14
+#ImpeachmentHearing                      13
+----------- 2019-11-23 21:25:50 -----------
+#Trump                                   67
+#Russia                                  19
+#GOP                                     16
+#USA                                     15
+#ImpeachmentHearing                      13
+----------- 2019-11-23 21:25:55 -----------
+#Trump                                   69
+#Russia                                  20
+#GOP                                     16
+#USA                                     15
+#ImpeachmentHearing                      13
+----------- 2019-11-23 21:26:00 -----------
+#Trump                                   71
+#Russia                                  20
+#USA                                     19
+#GOP                                     16
+#ImpeachmentHearing                      13
+----------- 2019-11-23 21:26:05 -----------
+#Trump                                   74
+#Russia                                  21
+#USA                                     20
+#GOP                                     16
+#ImpeachmentHearing                      14
+----------- 2019-11-23 21:26:10 -----------
+#Trump                                   76
+#Russia                                  21
+#USA                                     20
+#GOP                                     17
+#ImpeachmentHearing                      14
+----------- 2019-11-23 21:26:15 -----------
+#Trump                                   76
+#Russia                                  21
+#USA                                     20
+#GOP                                     17
+#ImpeachmentHearing                      14
+----------- 2019-11-23 21:26:20 -----------
+#Trump                                   78
+#Russia                                  21
+#USA                                     20
+#GOP                                     18
+#ImpeachmentHearing                      14
+----------- 2019-11-23 21:26:25 -----------
+#Trump                                   81
+#Russia                                  21
+#USA                                     20
+#GOP                                     18
+#ImpeachmentHearing                      14
+----------- 2019-11-23 21:26:30 -----------
+#Trump                                   82
+#USA                                     22
+#Russia                                  21
+#GOP                                     18
+#ImpeachmentHearing                      14
+----------- 2019-11-23 21:26:35 -----------
+#Trump                                   82
+#USA                                     22
+#Russia                                  21
+#GOP                                     18
+#ImpeachmentHearing                      14
+----------- 2019-11-23 21:26:40 -----------
+#Trump                                   82
+#USA                                     23
+#Russia                                  22
+#GOP                                     18
+#ImpeachmentHearing                      14
+----------- 2019-11-23 21:26:45 -----------
+#Trump                                   83
+#USA                                     23
+#Russia                                  22
+#GOP                                     18
+#ImpeachmentHearing                      14
+----------- 2019-11-23 21:26:50 -----------
+#Trump                                   84
+#USA                                     24
+#Russia                                  22
+#GOP                                     18
+#ImpeachmentHearing                      14
+----------- 2019-11-23 21:26:55 -----------
+#Trump                                   86
+#USA                                     24
+#Russia                                  22
+#GOP                                     18
+#ImpeachmentHearing                      14
+----------- 2019-11-23 21:27:00 -----------
+#Trump                                   87
+#USA                                     24
+#Russia                                  22
+#GOP                                     19
+#ImpeachmentHearing                      15
+----------- 2019-11-23 21:27:05 -----------
+#Trump                                   88
+#USA                                     24
+#Russia                                  22
+#GOP                                     19
+#ImpeachmentHearing                      16
+----------- 2019-11-23 21:27:10 -----------
+#Trump                                   89
+#USA                                     24
+#Russia                                  24
+#GOP                                     19
+#ImpeachmentHearing                      16
+----------- 2019-11-23 21:27:15 -----------
+#Trump                                   90
+#USA                                     25
+#Russia                                  25
+#GOP                                     20
+#ImpeachmentHearing                      16
+----------- 2019-11-23 21:27:20 -----------
+#Trump                                   94
+#USA                                     26
+#Russia                                  25
+#GOP                                     20
+#ImpeachmentHearing                      16
+----------- 2019-11-23 21:27:25 -----------
+#Trump                                   95
+#USA                                     26
+#Russia                                  26
+#GOP                                     20
+#ImpeachmentHearing                      17
+----------- 2019-11-23 21:27:30 -----------
+#Trump                                   96
+#USA                                     27
+#Russia                                  26
+#GOP                                     22
+#ImpeachmentHearing                      17
+----------- 2019-11-23 21:27:35 -----------
+#Trump                                   97
+#USA                                     27
+#Russia                                  27
+#GOP                                     22
+#ImpeachmentHearing                      17
+----------- 2019-11-23 21:27:40 -----------
+#Trump                                   98
+#USA                                     28
+#Russia                                  27
+#GOP                                     22
+#ImpeachmentHearing                      17
+----------- 2019-11-23 21:27:45 -----------
+#Trump                                   101
+#USA                                     28
+#Russia                                  27
+#GOP                                     22
+#ImpeachmentHearing                      17
+----------- 2019-11-23 21:27:50 -----------
+#Trump                                   105
+#USA                                     29
+#Russia                                  27
+#GOP                                     22
+#ImpeachmentHearing                      17
+----------- 2019-11-23 21:27:55 -----------
+#Trump                                   106
+#USA                                     29
+#Russia                                  27
+#GOP                                     23
+#ImpeachmentHearing                      17
+----------- 2019-11-23 21:28:00 -----------
+#Trump                                   107
+#USA                                     29
+#Russia                                  27
+#GOP                                     24
+#ImpeachmentHearing                      17
+----------- 2019-11-23 21:28:05 -----------
+#Trump                                   108
+#USA                                     29
+#Russia                                  27
+#GOP                                     24
+#ImpeachmentHearing                      18
+----------- 2019-11-23 21:28:10 -----------
+#Trump                                   109
+#USA                                     29
+#Russia                                  27
+#GOP                                     24
+#ImpeachmentHearing                      18
+----------- 2019-11-23 21:28:15 -----------
+#Trump                                   109
+#USA                                     29
+#Russia                                  27
+#GOP                                     24
+#ImpeachmentHearing                      19
+----------- 2019-11-23 21:28:20 -----------
+#Trump                                   110
+#USA                                     29
+#Russia                                  27
+#GOP                                     24
+#ImpeachmentHearing                      19
+----------- 2019-11-23 21:28:25 -----------
+#Trump                                   110
+#USA                                     29
+#Russia                                  27
+#GOP                                     24
+#ImpeachmentHearing                      19
+----------- 2019-11-23 21:28:30 -----------
+#Trump                                   111
+#USA                                     29
+#Russia                                  27
+#GOP                                     24
+#ImpeachmentHearing                      19
+----------- 2019-11-23 21:28:35 -----------
+#Trump                                   111
+#USA                                     29
+#Russia                                  27
+#GOP                                     24
+#ImpeachmentHearing                      19
+----------- 2019-11-23 21:28:40 -----------
+#Trump                                   112
+#USA                                     30
+#Russia                                  28
+#GOP                                     24
+#ImpeachmentHearing                      20
+----------- 2019-11-23 21:28:45 -----------
+#Trump                                   113
+#USA                                     30
+#Russia                                  28
+#GOP                                     24
+#ImpeachmentHearing                      20
+----------- 2019-11-23 21:28:50 -----------
+#Trump                                   114
+#USA                                     30
+#Russia                                  29
+#GOP                                     25
+#ImpeachmentHearing                      20
+----------- 2019-11-23 21:28:55 -----------
+#Trump                                   114
+#USA                                     30
+#Russia                                  29
+#GOP                                     25
+#ImpeachmentHearing                      20
+----------- 2019-11-23 21:29:00 -----------
+#Trump                                   115
+#USA                                     30
+#Russia                                  29
+#GOP                                     26
+#ImpeachmentHearing                      20
+----------- 2019-11-23 21:29:05 -----------
+#Trump                                   116
+#USA                                     31
+#Russia                                  29
+#GOP                                     26
+#ImpeachmentHearing                      21
+----------- 2019-11-23 21:29:10 -----------
+#Trump                                   118
+#USA                                     31
+#Russia                                  29
+#GOP                                     28
+#ImpeachmentHearing                      22
+----------- 2019-11-23 21:29:15 -----------
+#Trump                                   121
+#USA                                     31
+#Russia                                  29
+#GOP                                     28
+#ImpeachmentHearing                      22
+----------- 2019-11-23 21:29:20 -----------
+#Trump                                   124
+#Russia                                  32
+#USA                                     31
+#GOP                                     28
+#ImpeachmentHearing                      22
+----------- 2019-11-23 21:29:25 -----------
+#Trump                                   125
+#Russia                                  33
+#USA                                     31
+#GOP                                     28
+#ImpeachmentHearing                      22
+----------- 2019-11-23 21:29:30 -----------
+#Trump                                   125
+#Russia                                  33
+#USA                                     31
+#GOP                                     28
+#ImpeachmentHearing                      22
+----------- 2019-11-23 21:29:35 -----------
+#Trump                                   127
+#Russia                                  34
+#USA                                     31
+#GOP                                     28
+#ImpeachmentHearing                      22
+----------- 2019-11-23 21:29:40 -----------
+#Trump                                   128
+#Russia                                  34
+#USA                                     31
+#GOP                                     29
+#ImpeachmentHearing                      22
+----------- 2019-11-23 21:29:45 -----------
+#Trump                                   128
+#Russia                                  34
+#USA                                     31
+#GOP                                     31
+#ImpeachmentHearing                      23
+----------- 2019-11-23 21:29:50 -----------
+#Trump                                   129
+#Russia                                  34
+#USA                                     31
+#GOP                                     31
+#ImpeachmentHearing                      23
+----------- 2019-11-23 21:29:55 -----------
+#Trump                                   131
+#Russia                                  35
+#USA                                     31
+#GOP                                     31
+#ImpeachmentHearing                      23
+----------- 2019-11-23 21:30:00 -----------
+#Trump                                   132
+#Russia                                  35
+#GOP                                     32
+#USA                                     31
+#ImpeachmentHearing                      24
+----------- 2019-11-23 21:30:05 -----------
+#Trump                                   133
+#Russia                                  35
+#GOP                                     33
+#USA                                     31
+#ImpeachmentHearing                      24
+
